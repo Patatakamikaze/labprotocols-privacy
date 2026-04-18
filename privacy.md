@@ -1,8 +1,8 @@
 # Política de privacidad
 
-**Última actualización:** REEMPLAZAR_FECHA
+**Última actualización:** 18/04/2026
 
-**Lab Protocols** (la "App") está operada por **REEMPLAZAR_NOMBRE** ("nosotros"). Esta política explica qué datos recopilamos, cómo los usamos y los derechos que tienes sobre ellos.
+**Lab Protocols** (la "App") está operada por Jose Barrientos Moreno ("nosotros"). Esta política explica qué datos recopilamos, cómo los usamos y los derechos que tienes sobre ellos.
 
 ---
 
@@ -43,10 +43,10 @@ Más información: [policies.google.com/technologies/ads](https://policies.googl
 
 ## Tus derechos
 
-Puedes acceder, rectificar, exportar o eliminar tus datos en cualquier momento escribiéndonos a **REEMPLAZAR_EMAIL_CONTACTO**. Al borrar tu cuenta eliminamos tus filas y fotos en un plazo máximo de **30 días**.
+Puedes acceder, rectificar, exportar o eliminar tus datos en cualquier momento escribiéndonos a Pepebarrientosmoreno@gmail.com . Al borrar tu cuenta eliminamos tus filas y fotos en un plazo máximo de **30 días**.
 
 ---
 
 ## Contacto
 
-Dudas sobre esta política: **REEMPLAZAR_EMAIL_CONTACTO**.
+Dudas sobre esta política: Pepebarrientosmoreno@gmail.com.
